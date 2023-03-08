@@ -255,10 +255,13 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  github-pages (~> 228)
+  github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-feed
+  jekyll-paginate
+  jekyll-redirect-from
+  jekyll-seo-tag
+  jekyll-sitemap
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)

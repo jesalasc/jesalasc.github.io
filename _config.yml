@@ -28,7 +28,9 @@ twitter_username: jesalasc
 github_username:  jesalasc
 
 # Build settings
-theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: true
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
